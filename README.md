@@ -39,7 +39,7 @@ Este proyecto se construyó utilizando **Flutter**, el SDK de Google para crear 
 * [SDK de .NET Core](https://dotnet.microsoft.com/download) instalado en tu sistema (para la API).
 * (Opcional) Un emulador de Android/iOS o un dispositivo físico para probar la aplicación móvil.
 
-## 🤝 Contribución (Opcional)
+## 🤝 Contribución
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes hacerlo de las siguientes maneras:
   * Reportar errores o problemas (Issues).
   * Proponer nuevas funcionalidades (Pull Requests).
