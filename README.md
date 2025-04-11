@@ -1,27 +1,49 @@
-# Radio Poder 
-![GitHub last commit](https://img.shields.io/github/last-commit/PabloPoder/RadioPoder-Flutter?logo=github) 
-![GitHub repo size](https://img.shields.io/github/repo-size/PabloPoder/RadioPoder-Flutter?logo=github)
-<a href="https://www.youtube.com/watch?v=q-87xRNtrhs" target="_blank">![YouTube Video Views](https://img.shields.io/youtube/views/q-87xRNtrhs?style=social)</a>
+# Radio Poder
 
-# <a href="https://www.youtube.com/watch?v=q-87xRNtrhs" target="_blank">Video demostracion de app</a>
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/PabloPoder/RadioPoder-Flutter?logo=github)](https://github.com/PabloPoder/RadioPoder-Flutter/commits/main)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/PabloPoder/RadioPoder-Flutter?logo=github)](https://github.com/PabloPoder/RadioPoder-Flutter)
+[![YouTube Video Views](https://img.shields.io/youtube/views/q-87xRNtrhs?style=social)](https://www.youtube.com/watch?v=q-87xRNtrhs)
 
-# Descripción del proyecto 📃
-APP de Radio! Lee noticias, escribe comentarios y escuchas musica.
-Este proyecto es una aplicación móvil que desarrollé como trabajo final para mi universidad. Utilicé Flutter, un SDK de Google que permite desarrollar aplicaciones multiplataforma para Android, iOS, Linux, macOS, Windows, Google Fuchsia y la web desde una única base de código. Además, diseñé el UX/UI y creé una API Rest con .NET CORE para permitir peticiones de tipo GET, POST, DELETE, PUT y PATCH y utilizar datos dinámicos en la aplicación.
+## 🎬 Video Demostración de la App
+[![Enlace al Video de Demostración](https://img.shields.io/badge/Ver%20Demostración-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=q-87xRNtrhs)
 
-![image](https://github.com/PabloPoder/RadioPoder-Flutter/assets/50326883/742e58df-64e1-403e-b51d-74b24c4ae303)
+## ⚙️ API Rest
+[![Enlace a la API Rest](https://img.shields.io/badge/Ver%20API%20Rest-007bff?style=for-the-badge&logo=.net)](https://github.com/PabloPoder/RadioPoder-Api.Net6)
 
+## 📝 Descripción del Proyecto
+Radio Poder es una aplicación móvil multifuncional desarrollada como proyecto final universitario. Permite a los usuarios **escuchar transmisiones de radio en vivo, leer noticias y participar escribiendo comentarios**, todo en una interfaz intuitiva.
 
-# Funcionalidades ⚡
-Interfaz de usuario intuitiva y fácil de usar.
-API Restful implementada con .NET CORE para manejar las solicitudes de datos de la aplicación.
-Soporte para peticiones de tipo GET, POST, DELETE, PUT y PATCH.
-Integración de datos dinámicos en la aplicación.
-Tecnologías utilizadas
-Flutter
-.NET CORE
+Este proyecto se construyó utilizando **Flutter**, el SDK de Google para crear aplicaciones multiplataforma nativas para Android, iOS, Linux, macOS, Windows, Google Fuchsia y la web desde una única base de código. Adicionalmente, se diseñó la experiencia de usuario (UX) y la interfaz de usuario (UI) desde cero, y se desarrolló una **API Rest robusta con .NET Core** para gestionar el intercambio de datos dinámicos con la aplicación, soportando las operaciones CRUD (GET, POST, DELETE, PUT) y PATCH.
 
-- <a href="https://github.com/PabloPoder/RadioPoder-Api.Net6" target="_blank">API Rest</a>
+## ✨ Funcionalidades Principales
+* **Interfaz de Usuario Intuitiva:** Diseño moderno y fácil de navegar para una experiencia de usuario óptima.
+* **Lectura de Noticias:** Mantente informado con las últimas novedades integradas en la app.
+* **Sistema de Comentarios:** Interactúa con otros usuarios compartiendo tus opiniones sobre noticias y transmisiones.
+* **API Restful con .NET Core:** Arquitectura backend sólida para la gestión eficiente de datos.
+* **Soporte CRUD y PATCH:** Implementación completa de los métodos HTTP para manipulación de datos.
+* **Datos Dinámicos:** Contenido actualizado en tiempo real gracias a la integración con la API.
 
+## 🛠️ Tecnologías Utilizadas
+* **Frontend:**
+    * [Flutter](https://flutter.dev/) - SDK para desarrollo multiplataforma.
+    * Dart - Lenguaje de programación utilizado por Flutter.
+* **Backend:**
+    * [.NET Core](https://dotnet.microsoft.com/en-us/learn/aspnet/what-is-aspnet-core) - Framework para construir la API Rest.
+    * C# - Lenguaje de programación utilizado en .NET Core.
+* **Otros:**
+    * UX/UI Design - Diseño de la experiencia e interfaz de usuario.
+    * RESTful API - Arquitectura de la interfaz de comunicación entre la app y el servidor.
 
+**Requisitos:**
+* [Flutter SDK](https://flutter.dev/docs/get-started/install) instalado en tu sistema.
+* [SDK de .NET Core](https://dotnet.microsoft.com/download) instalado en tu sistema (para la API).
+* (Opcional) Un emulador de Android/iOS o un dispositivo físico para probar la aplicación móvil.
 
+## 🤝 Contribución (Opcional)
+Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes hacerlo de las siguientes maneras:
+  * Reportar errores o problemas (Issues).
+  * Proponer nuevas funcionalidades (Pull Requests).
+  * Mejorar la documentación.
+
+## 📸 Capturas
+![Captura de pantalla de la aplicación Radio Poder](https://github.com/user-attachments/assets/53243596-74f8-4cc9-9b2a-9693d53202da)
